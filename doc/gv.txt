@@ -51,6 +51,7 @@ MAPPINGS                                                        *gv-mappings*
   gb                    | normal        | |:Gbrowse|                                                
   ]] and [[             | normal/visual | Move between commits                                    
   .                     | normal        | Begin `:Git [CURSOR] SHA` à la fugitive 
+  r                     | normal        | Refresh git state
   q                     | normal        | Close                                                   
  -----------------------+---------------+---------------------------------------------------------
 
